@@ -1,5 +1,2 @@
-pip
-setuptools
-flask
-yt-dlp
-tgcrypto
+telethon
+requests
